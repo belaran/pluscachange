@@ -9,6 +9,8 @@ Bienvenue sur le site du collectif *Ombres Portées 2.0*, une communauté de fan
 - [Blog Shadowrun (ancien site)](http://blog.shadowrun-jdr.fr/) [temporairement désactivé]
 - [Shadowtalk](https://open.spotify.com/show/0s8i8PUZ8mOQsE4zGt79X2) (podcasts)
 
+Nos podcasts incluent des discussions sur la gamme et des *Actual Plays*!
+
 ## Actual Plays
 
 Pour vous aider à découvrir nos *Actual Plays*, voici des liens vers les premiers épisodes de chaque série que nous avons réalisés:
