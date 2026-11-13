@@ -8,6 +8,7 @@ Bienvenue sur le site du collectif *Ombres Portées 2.0*, une communauté de fan
 - [ShadoWiki](http://wiki.shadowrun-jdr.fr/)
 - [Blog Shadowrun (ancien site)](http://blog.shadowrun-jdr.fr/) [temporairement désactivé]
 - [Shadowtalk](https://open.spotify.com/show/0s8i8PUZ8mOQsE4zGt79X2) (podcasts)
+- [Discord de la communauté](https://discord.gg/uBXWeF9wRs)
 
 Nos podcasts incluent des discussions sur la gamme et des *Actual Plays*!
 
@@ -28,8 +29,8 @@ Une des activités principales de *Ombres Portées 2.0* est la traduction d'anci
 
 Des ressources créées par d'autres fans, indépendantes de l'association, autour de *Shadowrun Anarchy 2.0* :
 
-- [Créateur de fiches de personnage Anarchy 2.0](https://basharnchtn.github.io/perso-shadowrun-anarchy-v2/) par BasharNchtn (création avec suivi des coûts, sauvegarde en JSON, export de la fiche en PDF)
-- [Fiche Anarchy 2.0](https://github.com/Devine-1/Fiche-Anarchy-2.0) par Devine-1 (fiche de personnage décrite en JSON et transformée en page web)
+- [Créateur de fiches de personnage Anarchy 2.0](https://basharnchtn.github.io/perso-shadowrun-anarchy-v2/) par Bashar (création avec suivi des coûts, sauvegarde en JSON, export de la fiche en PDF)
+- [Fiche Anarchy 2.0](https://github.com/Devine-1/Fiche-Anarchy-2.0) par Devine-1 (fiche de personnage décrite en JSON et transformée en page web, affichage de carte dynamique)
 - [Liste d'atouts et d'équipements](https://daegann.fr/wp-content/uploads/aides/Liste_des_atouts_et_equipements.pdf) enrichie par Daegann
 - [Fiches de personnages et PNJ](https://daegann.fr/fiches-shadowrun/) par Daegann
 - [Galerie de personnages prétirés](https://daegann.fr/galerie-de-personnages/) par Daegann
@@ -42,3 +43,5 @@ Des ressources créées par d'autres fans, indépendantes de l'association, auto
 - [Lanceur de dés](https://docs.google.com/spreadsheets/d/1tA4P1ebFrOaEaBo7-0gMGa4N9Xus2Veu-ZaEIMSKdP4/edit?gid=0#gid=0) par l'équipe de Lagos Fever !
 - [Calculateur de chances de réussite et de complications](https://scardin.github.io/SRA2-RiskCalculator/) par Slywalker
 - [Guide de Chicago](https://drive.google.com/file/d/1GMft1b66wrRXmZ7MQguichxzmNiGHV-x/view?usp=sharing) par Beetlejuice
+
+Vous avez un projet autour de *Shadowrun* et vous souhaitez qu'il apparaisse ici ? N'hésitez pas à nous contacter, par mail ou sur le Discord de la communauté, pour que nous l'ajoutions !
